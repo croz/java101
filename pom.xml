@@ -3,7 +3,7 @@
   <groupId>com.sqa.mc</groupId>
   <artifactId>java-basic</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <name>Basic Project </name>
+  <name>Java Project </name>
   <description>Project to cover core java concepts</description>
 </project>
 <dependencies>
