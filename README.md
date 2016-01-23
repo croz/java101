@@ -1,2 +1,2 @@
-# BasicProject
-Warm-UP Day 4
+# Java 101
+Day 4
